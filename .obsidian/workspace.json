@@ -25,14 +25,14 @@
             "id": "7bd35d551a4fbfc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1475faf9579eae0",
+  "active": "7bd35d551a4fbfc9",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Untitled.md",
+    "Untitled 1.md",
     "Welcome.md",
     "README.md"
   ]
